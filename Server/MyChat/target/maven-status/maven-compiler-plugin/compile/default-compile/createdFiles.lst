@@ -1,0 +1,9 @@
+com\enesje\mychat\domain\CoversationModel.class
+com\enesje\mychat\ChatService.class
+com\enesje\mychat\domain\Message_.class
+com\enesje\mychat\domain\Conversation_.class
+com\enesje\mychat\domain\Message.class
+com\enesje\mychat\domain\Contact.class
+com\enesje\mychat\domain\Contact_.class
+com\enesje\mychat\domain\Conversation.class
+com\enesje\mychat\RestConfiguration.class
